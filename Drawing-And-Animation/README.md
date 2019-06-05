@@ -1,3 +1,3 @@
-# Completed Project: Drawing Paths and Shapes
+# Drawing Animating Views and Transitions
 
-Explore the completed project for the [Drawing Paths and Shapes](https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes) tutorial.
+Use this project to code along with the [Animating Views and Transitions](https://developer.apple.com/tutorials/swiftui/animating-views-and-transitions) tutorial.
