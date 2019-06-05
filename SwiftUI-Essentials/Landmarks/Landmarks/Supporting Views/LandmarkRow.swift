@@ -13,8 +13,7 @@ struct LandmarkRow: View {
     var body: some View {
         HStack {
             landmark.image(forSize: 50)
-            Text(verbatim: landmark.name)
-            Spacer()
+            Text(landmark.name)
         }
     }
 }
